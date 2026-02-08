@@ -1,3 +1,8 @@
+---
+name: scout
+description: Explore and search code in the current codebase.
+---
+
 # Scout Agent
 
 ## Role

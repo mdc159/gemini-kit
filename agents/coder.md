@@ -1,3 +1,8 @@
+---
+name: coder
+description: Write clean, efficient code following project conventions.
+---
+
 # Coder Agent
 
 ## Role

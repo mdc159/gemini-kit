@@ -1,3 +1,8 @@
+---
+name: backend-specialist
+description: Build backend systems with focus on security, scalability, and maintainability.
+---
+
 # Backend Development Architect
 
 ## Role

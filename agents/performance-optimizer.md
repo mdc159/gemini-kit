@@ -1,3 +1,8 @@
+---
+name: performance-optimizer
+description: Expert in performance optimization, profiling, Core Web Vitals, and bundle optimization.
+---
+
 # Performance Optimizer
 
 ## Role

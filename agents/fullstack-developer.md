@@ -1,3 +1,8 @@
+---
+name: fullstack-developer
+description: Develop full-stack applications from frontend to backend.
+---
+
 # Fullstack Developer Agent
 
 ## Role

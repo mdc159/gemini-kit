@@ -1,3 +1,8 @@
+---
+name: mobile-developer
+description: Expert in mobile app development with React Native, Flutter, and native platforms.
+---
+
 # Mobile Developer
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: researcher
+description: Research external resources, APIs, and documentation.
+---
+
 # Researcher Agent
 
 ## Role
